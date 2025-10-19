@@ -1,0 +1,121 @@
+{
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "skills": "Skills",
+      "experience": "Experiences",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "hero": {
+        "hi": "Hi, I'm",
+        "title": "Student in Data Science ",
+        "desc": "Currently in my final year of Master’s studies, specializing in Data Science, Machine Learning, and Data Engineering. Passionate about developing efficient AI models and data-driven solutions, I’m actively looking for a final-year internship (PFE) to apply my skills in a dynamic and innovative environment.",
+        "cta": "View My Work"
+      
+    },
+    "about": {
+        
+      "cta_contact": "Get In Touch",
+      "cta_cv": "Download CV", 
+      "heading": "About Me",
+      "subtitle": "Data Scientist & AI Engineer",
+      "p1": "With a strong foundation in Machine Learning, NLP and Data Engineering, I turn data into insights and scalable AI systems.",
+      "p2": "I constantly explore new technologies to design effective data-driven solutions.",
+      "cards": {
+        "ml": { "title": "Machine Learning & NLP", "desc": "Predictive models & NLP pipelines (Python, TensorFlow, Hugging Face)." },
+        "data": { "title": "Data Engineering & Big Data", "desc": "ETL, Spark, Hadoop, Airflow for reliable data flows." },
+        "viz": { "title": "Business Intelligence & Visualization", "desc": "Interactive dashboards (Power BI, Streamlit)." }
+      }
+    },
+    "skills": {
+      "heading": "My Skills",
+      "categories": {
+        "all": "All",
+        "programming": "Programming",
+        "ml": "Machine Learning & AI",
+        "data": "Data Engineering",
+        "viz": "Visualization & Tools"
+      }
+    },
+    "experience": {
+      "heading": "Featured Experience",
+      "intro": "Internships and roles with real impact on AI, data, and full-stack.",
+      "cards": {
+        "ensa": {
+          "title": "Software Engineer — AI/NLP",
+          "company": "ENSA Khouribga",
+          "desc": "Full pipeline for SLM fine-tuning; LoRA/PEFT & quantization; benchmarks; production scripts & reports."
+        },
+        "ads": {
+          "title": "Full-Stack Developer",
+          "company": "ADS — Rabat",
+          "desc": "Digital platform with BI visuals and automated ETL; Next.js + Node.js; Power BI insights."
+        },
+        "devosoft": {
+          "title": "Full-Stack Web Developer",
+          "company": "Devosoft — Safi",
+          "desc": "Web directory (Laravel/HTML/CSS/JS); improved accessibility and content organization."
+        }
+      },
+      "cta": "View More on LinkedIn"
+    },
+    "projects": {
+      "heading": "Featured Projects",
+      "intro": "A selection of high-impact Data/AI projects — ML, NLP, and Data Engineering.",
+      "cta": "Check My GitHub"
+    },
+
+    
+    "education": {
+          "heading": "Academic Background",
+          "items": [
+            {
+              "degree": "Master — Mathematics & Computer Science for Data Science",
+              "school": "ENSA Khouribga, Sultan Moulay Slimane University",
+              "location": "Khouribga",
+              "period": "2024 — 2026",
+              "details": "Specialization in Data Science, AI, and decision support systems."
+            },
+            {
+              "degree": "Professional Bachelor — Decision Support Systems (Business Intelligence)",
+              "school": "Higher School of Technology (EST), Mohammed First University",
+              "location": "Oujda",
+              "period": "2023 — 2024",
+              "details": "Business Intelligence and data analysis (graduated with honors)."
+            },
+            {
+              "degree": "DUT — Computer Engineering",
+              "school": "Higher School of Technology (EST), Cadi Ayyad University",
+              "location": "Safi",
+              "period": "2021 — 2023",
+              "details": "Foundations in computer systems, programming, and applied IT."
+            }
+          ]
+        },
+
+
+
+
+
+    "contact": {
+      "heading": "Get In Touch",
+      "intro": "Have a project in mind or want to collaborate? Reach out.",
+      "form": {
+        "name": "Your Name",
+        "email": "Your Email",
+        "message": "Your Message",
+        "send": "Send Message",
+        "sending": "Sending..."
+      },
+      "info": { "email": "Email", "phone": "Phone", "location": "Location" }
+    },
+    "footer": {
+      "quick": "Quick Links",
+      "services": "Services",
+      "contact": "Contact",
+      "start": "Start a Project",
+      "rights": "All rights reserved."
+    }
+  }
+  

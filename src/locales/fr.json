@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "experience": "Expériences",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "hi": "Bonjour, je suis",
+    "title": "Étudiant en science des données",
+    "desc": "Actuellement en dernière année de Master, je me spécialise en Data Science, Machine Learning et Ingénierie des Données. Passionné par la création de modèles d’IA performants et de solutions data-driven, je suis à la recherche d’un stage de fin d’études (PFE) pour mettre mes compétences en pratique dans un environnement innovant.",
+    "cta": "Voir mes projets"
+  
+  },
+  "about": {
+
+    "heading": "À propos de moi",
+    "cta_contact": "Me contacter",
+    "cta_cv": "Télécharger mon CV",
+    "subtitle": "Data Scientist & Ingénieur IA",
+    "p1": "Solide base en Machine Learning, NLP et Data Engineering, je transforme les données en insights intelligents et systèmes IA scalables.",
+    "p2": "J’explore continuellement de nouvelles technologies pour concevoir des solutions data-driven efficaces.",
+    "cards": {
+      "ml": { "title": "Machine Learning & NLP", "desc": "Modèles prédictifs et pipelines NLP (Python, TensorFlow, Hugging Face)." },
+      "data": { "title": "Data Engineering & Big Data", "desc": "ETL, Spark, Hadoop, Airflow pour des flux de données fiables." },
+      "viz": { "title": "Business Intelligence & Visualisation", "desc": "Tableaux de bord interactifs (Power BI, Streamlit)." }
+    }
+  },
+  "skills": {
+    "heading": "Mes Compétences",
+    "categories": {
+      "all": "Toutes",
+      "programming": "Programmation",
+      "ml": "Machine Learning & IA",
+      "data": "Data Engineering",
+      "viz": "Visualisation & Outils"
+    }
+  },
+
+
+    "education": {
+      "heading": "Parcours académique",
+      "items": [
+        {
+          "degree": "Master — Mathématiques & Informatique pour la Data Science",
+          "school": "ENSA Khouribga, Université Sultan Moulay Slimane",
+          "location": "Khouribga",
+          "period": "2024 — 2026",
+          "details": "Spécialisation en Data Science, IA et systèmes d’aide à la décision."
+        },
+        {
+          "degree": "Licence Professionnelle — Informatique Décisionnelle (Business Intelligence)",
+          "school": "École Supérieure de Technologie (EST), Université Mohammed Premier",
+          "location": "Oujda",
+          "period": "2023 — 2024",
+          "details": "Business Intelligence et analyse de données (mention bien)."
+        },
+        {
+          "degree": "DUT — Génie Informatique",
+          "school": "École Supérieure de Technologie (EST), Université Cadi Ayyad",
+          "location": "Safi",
+          "period": "2021 — 2023",
+          "details": "Fondamentaux des systèmes informatiques, programmation et IT appliquée."
+        }
+      ]
+    },
+  "experience": {
+    "heading": "Expériences mises en avant",
+    "intro": "Stages et expériences avec un impact réel sur l’IA, la donnée et le full-stack.",
+    "cards": {
+      "ensa": {
+        "title": "Ingénieur Logiciel — IA/NLP",
+        "company": "ENSA Khouribga",
+        "desc": "Pipeline complet de fine-tuning SLM; LoRA/PEFT & quantization; benchmarks; scripts & rapports prod."
+      },
+      "ads": {
+        "title": "Développeur Full-Stack",
+        "company": "ADS — Rabat",
+        "desc": "Plateforme digitale avec visualisations BI et ETL automatisé; Next.js + Node.js; insights Power BI."
+      },
+      "devosoft": {
+        "title": "Développeur Web Full-Stack",
+        "company": "Devosoft — Safi",
+        "desc": "Annuaire web (Laravel/HTML/CSS/JS); meilleure accessibilité et organisation du contenu."
+      }
+    },
+    "cta": "Voir plus sur LinkedIn"
+  },
+  "projects": {
+    "heading": "Projets",
+    "intro": "Sélection de projets Data/IA — ML, NLP et Data Engineering.",
+    "cta": "Voir mon GitHub"
+  },
+  "contact": {
+    "heading": "Contact",
+    "intro": "Un projet en tête ou envie de collaborer ? Écrivez-moi.",
+    "form": {
+      "name": "Votre nom",
+      "email": "Votre e-mail",
+      "message": "Votre message",
+      "send": "Envoyer",
+      "sending": "Envoi..."
+    },
+    "info": { "email": "E-mail", "phone": "Téléphone", "location": "Localisation" }
+  },
+  "footer": {
+    "quick": "Liens rapides",
+    "services": "Services",
+    "contact": "Contact",
+    "start": "Lancer un projet",
+    "rights": "Tous droits réservés."
+  }
+}
