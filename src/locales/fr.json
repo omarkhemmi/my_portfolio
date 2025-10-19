@@ -9,10 +9,9 @@
   },
   "hero": {
     "hi": "Bonjour, je suis",
-    "title": "Étudiant en science des données",
-    "desc": "Actuellement en dernière année de Master, je me spécialise en Data Science, Machine Learning et Ingénierie des Données. Passionné par la création de modèles d’IA performants et de solutions data-driven, je suis à la recherche d’un stage de fin d’études (PFE) pour mettre mes compétences en pratique dans un environnement innovant.",
+    "title": "Data Scientist — À la recherche d’un stage PFE",
+    "desc": "Passionné par la Data Science, l’Intelligence Artificielle et le Machine Learning, je suis actuellement à la recherche d’un stage de fin d’études (PFE) afin de mettre mes compétences en pratique et contribuer à des projets innovants.",
     "cta": "Voir mes projets"
-  
   },
   "about": {
 

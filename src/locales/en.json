@@ -8,10 +8,10 @@
       "contact": "Contact"
     },
     "hero": {
-        "hi": "Hi, I'm",
-        "title": "Student in Data Science ",
-        "desc": "Currently in my final year of Master’s studies, specializing in Data Science, Machine Learning, and Data Engineering. Passionate about developing efficient AI models and data-driven solutions, I’m actively looking for a final-year internship (PFE) to apply my skills in a dynamic and innovative environment.",
-        "cta": "View My Work"
+      "hi": "Hi, I'm",
+      "title": "Data Scientist — Open to Final-Year Internship (PFE)",
+      "desc": "Passionate about Artificial Intelligence, Data Science, and Machine Learning. I’m currently open to a final-year internship (PFE) where I can apply my technical skills to build impactful, data-driven solutions.",
+      "cta": "View My Work"
       
     },
     "about": {
